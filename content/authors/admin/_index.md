@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Bugatti
+name: deepgrok
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Deep Learning and Computer Vision Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Unknown
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 3D Reconstruction
+- Adversarial Deep Learning
+- Face Recognition
+- Face Detection
+- GANs
+- Image to Image Translation
+- Model Compression
+- Neural Architecture Search
+- Intepretability of Deep Learning
+- Theoretical Understanding of Deep Learning
+- Gaussian Process
+- Bayesian Optimization
+- Semantic Segmentation
+- Salient Object Detection
+- Edge Detection
 
 education:
   courses:
@@ -45,15 +57,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,15 +73,20 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+This blogger is currently experimenting with blogging to organize his thoughts. He researches on Computer Vision and his recent research topics are
+- Monocular Depth Estimation
+- Sparse to Dense Depth Completion
+- Stereo Depth Estimation
+- Multiview Stereo Depth Estimation
+- Structure from Motion
+- Visual Odometry
+- Visual SLAM
